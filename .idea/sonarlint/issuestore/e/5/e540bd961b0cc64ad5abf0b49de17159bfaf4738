@@ -1,0 +1,34 @@
+
+:squid:S1643X"Use a StringBuilder instead.(ŸÌş¯8˜¶¥ª-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(ëöÇ…8˜¶¥ª-
+@squid:S1643„"Use a StringBuilder instead.(àè±³úÿÿÿÿ8˜¶¥ª-
+:squid:S1643p"Use a StringBuilder instead.(ŸòÊ¹8˜¶¥ª-
+:squid:S1643v"Use a StringBuilder instead.(”‹‡8˜¶¥ª-
+[
+squid:S106["9Replace this use of System.out or System.err by a logger.(½†Ç¯ıÿÿÿÿ8˜¶¥ª-
+[
+squid:S106{"9Replace this use of System.out or System.err by a logger.(½†Ç¯ıÿÿÿÿ8˜¶¥ª-
+?squid:S1643@"Use a StringBuilder instead.(×•¶Úúÿÿÿÿ8˜¶¥ª-
+;squid:S1643€"Use a StringBuilder instead.(Ñ£ü†8˜¶¥ª-
+@squid:S1643‚"Use a StringBuilder instead.(‚ğççúÿÿÿÿ8˜¶¥ª-
+?squid:S1643a"Use a StringBuilder instead.(ì€—Ëıÿÿÿÿ8˜¶¥ª-
+@squid:S1643†"Use a StringBuilder instead.(½èØ®ıÿÿÿÿ8˜¶¥ª-
+\
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(½†Ç¯ıÿÿÿÿ8˜¶¥ª-
+usquid:S3776I"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(¸©¦Æøÿÿÿÿ8˜¶¥ª-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(µñøÿÿÿÿ8˜¶¥ª-
+?squid:S1643r"Use a StringBuilder instead.(ªáÿ˜şÿÿÿÿ8˜¶¥ª-
+v
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(‡Û€«8˜¶¥ª-
+?squid:S1643j"Use a StringBuilder instead.(ì€—Ëıÿÿÿÿ8˜¶¥ª-
+?squid:S1643e"Use a StringBuilder instead.(·üö‚ùÿÿÿÿ8˜¶¥ª-
+?squid:S1643D"Use a StringBuilder instead.(×•¶Úúÿÿÿÿ8˜¶¥ª-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ïüŠÃûÿÿÿÿ8˜¶¥ª-
+:squid:S1643R"Use a StringBuilder instead.(Ú§Ç8˜¶¥ª-
+Dsquid:S11688"&Return an empty array instead of null.(¥¹ï8˜¶¥ª-
+?squid:S1643g"Use a StringBuilder instead.(÷¢Ôÿıÿÿÿÿ8˜¶¥ª-
+?squid:S1643V"Use a StringBuilder instead.(àè±³úÿÿÿÿ8˜¶¥ª-
+9squid:S1643T"Use a StringBuilder instead.(Ô ï<8˜¶¥ª-
+?squid:S1643M"Use a StringBuilder instead.(„ÊˆÜüÿÿÿÿ8˜¶¥ª-
+?squid:S1643t"Use a StringBuilder instead.(àè±³úÿÿÿÿ8˜¶¥ª-

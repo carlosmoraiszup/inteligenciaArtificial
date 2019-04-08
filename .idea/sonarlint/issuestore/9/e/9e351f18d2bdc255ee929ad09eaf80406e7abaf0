@@ -1,0 +1,33 @@
+
+N
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ö¹˜&
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(´Úİ™ÿÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(È»ˆ
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(†²·¹úÿÿÿÿ
+P
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(¯ªàï
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³áıÓúÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã¾ÊM
+Asquid:S001082")Either remove or fill this block of code.(”ı¾
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ùƒ‚û
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒŞ´¹şÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎÃüÀ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÉÂ”Îúÿÿÿÿ
+asquid:S1192"JDefine a constant instead of duplicating this literal "Bucareste" 6 times.(ˆò×¸
+U
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÒšÑÅıÿÿÿÿ
+N
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Ã¾ÊM
+P
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ŞúŞ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó…íµøÿÿÿÿ
+isquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÷×¤
