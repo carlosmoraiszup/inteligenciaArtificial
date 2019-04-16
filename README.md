@@ -23,3 +23,15 @@ Data limite para postagem no GitHub: 02/04/2018
 Implementar um programa que utiliza as seguintes estratégias de busca local para o problema de 4-rainhas (mesma representação dos estados do trabalho anterior e função objetivo relacionada à quantidade de conflitos entre damas) :
 ##### busca local básica - subida/descida de encosta
 ##### busca tabu - busca subida/descida de encosta com uma lista tabu das duas últimas duas damas movimentadas
+
+# Trabalho 4:
+Exercicio - implementar um algoritmo genético para o problema das 8-rainhas;
+
+Inicie os experimentos com:
+##### - uma população inicial de 5 configurações
+##### - um ponto fico de cross-over
+##### - uma taxa de mutação de 1/10 bases
+##### - o melhor da geração anterior é sempre mantido para a próxima geração
+
+Altere as configurações aicma de modo que seu  algoritmo se torne 'melhor'
+
