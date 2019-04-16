@@ -1,11 +1,9 @@
-package nRainhasAG;
+package algoritmoGenetico;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
-
-import algoritmoGenetico.Tabuleiro;
 
 public class Main {
     static List<Tabuleiro> tabuleiros;

@@ -21,3 +21,7 @@ T
 $src/subidaEncosta/SubidaEncosta.java,6/f/6f2cc0a5a440b1d712fa7062302a845b584f64df
 K
 src/subidaEncosta/Main.java,e/d/edf4cd1df647b2cd7b712869583adb0755c79bbf
+T
+$src/algoritmoGenetico/Tabuleiro.java,9/e/9ecee5fe8e531eafce01441d5616fbfb5a211451
+O
+src/algoritmoGenetico/Main.java,f/d/fd4c1a5830147271e0b612335e4dd87595f9d6a5
