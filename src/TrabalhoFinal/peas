@@ -1,0 +1,17 @@
+Tema: Assistente que encontrara drivers atráves de um print da tela.
+
+Agente : Detecção de drivers.
+Performance: Encontrar os drivers corretos e atualizados.
+Sensores: Entrada pelo teclado para print da tela.
+Atuadores: Usuário, computador, tela do computador, teclado, mouse.
+Ambiente: Sistema Operacional - Windows 10.
+Ambiente: Completamente observável;
+          Agente único;
+          Determinístico;
+	  Sequencial;
+	  Estático;
+	  Discreto;
+	  Conhecido;
+
+
+
