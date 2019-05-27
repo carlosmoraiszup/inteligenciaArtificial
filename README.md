@@ -35,9 +35,11 @@ Inicie os experimentos com:
 
 Altere as configurações aicma de modo que seu  algoritmo se torne 'melhor'
 
-# Trabalho 5: Seminário sobre Google Cloud ML
+# Trabalho 5
+# Seminário sobre Google Cloud ML
 
-# Trabalho Final: Assistente que encontrara drivers atráves de um print da tela. 
+# Trabalho Final
+# Assistente que encontrara drivers atráves de um print da tela. 
 
 
 
