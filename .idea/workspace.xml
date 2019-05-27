@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2312299-99cc-4c84-9259-c3c49e10fc50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9ecee5fe8e531eafce01441d5616fbfb5a211451" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9ecee5fe8e531eafce01441d5616fbfb5a211451" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd4c1a5830147271e0b612335e4dd87595f9d6a5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd4c1a5830147271e0b612335e4dd87595f9d6a5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoritmoGenetico/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoritmoGenetico/Tabuleiro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/buscas/Aresta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/buscas/Build.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/buscas/GrafoMenorCaminho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/buscas/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/buscas/Vertice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/buscas/VerticeMenorCaminho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nrainhas/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nrainhas/ProblemaNrainhas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subidaEncosta/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subidaEncosta/SubidaEncosta.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,6 +91,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555435497186" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../realwave-nextel-services" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -225,12 +214,12 @@
       <workItem from="1555435161500" duration="490000" />
       <workItem from="1555435743310" duration="50000" />
       <workItem from="1555510407487" duration="165000" />
-      <workItem from="1558957710270" duration="914000" />
+      <workItem from="1558957710270" duration="1358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10464000" />
+    <option name="totallyTimeSpent" value="10908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
