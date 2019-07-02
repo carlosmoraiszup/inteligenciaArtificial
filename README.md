@@ -44,7 +44,7 @@ Altere as configurações aicma de modo que seu  algoritmo se torne 'melhor'
 
 
 # Trabalho Final
-##### Assistente que encontra drivers atráves de um print da tela. 
+##### Classificamento de letras utilizando regra delta.
 
 
 
