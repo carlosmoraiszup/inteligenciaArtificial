@@ -1,17 +1,21 @@
-Tema: Assistente que encontrara drivers atráves de um print da tela.
+Tema: Classificamento de letras a partir de um preenchimento de matriz utilizando a regra delta
 
-Agente : Detecção de drivers.
-Performance: Encontrar os drivers corretos e atualizados.
-Sensores: Entrada pelo teclado para print da tela.
-Atuadores: Usuário, computador, tela do computador, teclado, mouse.
-Ambiente: Sistema Operacional - Windows 10.
-Ambiente: Completamente observável;
-          Agente único;
-          Determinístico;
-	  Sequencial;
-	  Estático;
-	  Discreto;
-	  Conhecido;
+Agente :     Classificador de letras
+Performance: Consseguir classificar a letra desenhada
+Sensores:    Entrada pelo teclado para aplicação de ruídos, treinamento da rede
+Atuadores:   Usuário, computador, tela do computador, teclado, mouse.
+Ambiente:    Rede neural Adaline
+               - Parcialmente observável;  (devido ao ruído e a sensores imprecisos)
+
+               - Multi-agente competitivo; (o usuário tenta confundir o agente aplicando ruídos, assim,
+                                            sendo capaz de competir com olho humano)
+
+               - Estocástico; (devido ao fato de toda hora pode haver um ruído diferente)
+	           - Episódico;   (o agente recebe uma percepção e em seguida
+                               executa uma única ação)
+	           - Dinâmico; (pois, o ambiente pode se alterar)
+	           - Discreto; (pois, o ambiente possui um limite)
+	           - Conhecido; (pois, é possível retornar uma resposta, no caso, qual porcentagem de rúido em uma letra)
 
 
 

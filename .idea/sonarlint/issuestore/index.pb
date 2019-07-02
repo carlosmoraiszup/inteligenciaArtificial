@@ -1,27 +1,3 @@
 
 C
 properties/mapa.txt,0/b/0be63050236077b8bf17f596b615c9ad8f569622
-Q
-!src/buscas/GrafoMenorCaminho.java,c/5/c5859a9c5ab2b8ff1b13b783aa6b0446dda383ff
-F
-src/buscas/Aresta.java,e/0/e05aabc4fa55daa7ce48a604cbfb6f6a65cde932
-G
-src/buscas/Vertice.java,5/5/5591dccd0ea5870c54cf862359f30074bc4ee641
-E
-src/buscas/Build.java,2/9/2900d38da4af2d429ec375e0e4810d4a8a284313
-S
-#src/buscas/VerticeMenorCaminho.java,4/e/4ebe7b029e3085a1a40ddafc472418c66eead720
-D
-src/buscas/Main.java,9/e/9e351f18d2bdc255ee929ad09eaf80406e7abaf0
-R
-"src/nrainhas/ProblemaNrainhas.java,e/5/e540bd961b0cc64ad5abf0b49de17159bfaf4738
-F
-src/nrainhas/Main.java,9/6/9696215090461f98964f631aff8c35bdf5427759
-T
-$src/subidaEncosta/SubidaEncosta.java,6/f/6f2cc0a5a440b1d712fa7062302a845b584f64df
-K
-src/subidaEncosta/Main.java,e/d/edf4cd1df647b2cd7b712869583adb0755c79bbf
-T
-$src/algoritmoGenetico/Tabuleiro.java,9/e/9ecee5fe8e531eafce01441d5616fbfb5a211451
-O
-src/algoritmoGenetico/Main.java,f/d/fd4c1a5830147271e0b612335e4dd87595f9d6a5
